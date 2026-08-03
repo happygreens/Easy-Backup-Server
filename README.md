@@ -29,7 +29,13 @@ Ein V-Server bietet Ihnen **garantierte Leistung (CPU/RAM)** und **volle Flexibi
 Für eine einfache und visuelle Server-Verwaltung empfehlen wir die Nutzung von KeyHelp:
 * 🔗 **Deutsche Demo:** https://demo.keyhelp.de/
 * 🔗 **Internationale Demo:** https://demo.keyhelp.eu/
+  
 * 🎁 **Empfehlungs-Code:** `342BZCR2U`
+Nur mit dem Gutscheincode, den Sie unbedingt bei der Bestellung und beim Support angeben müssenm erhalten Sie 10% Rabatt.
+
+```bash
+342BZCR2U
+```
 
 ### 🔑 Features & Keywords
 * **Automatisierung:** Automatische Umgebungserkennung (Shell vs. Freehoster)
@@ -57,6 +63,11 @@ To manage your VPS effortlessly via a modern GUI, we recommend KeyHelp:
 * 🔗 **German Demo:** https://demo.keyhelp.de/
 * 🔗 **International Demo:** https://demo.keyhelp.eu/
 * 🎁 **Referral Code:** `342BZCR2U`
+You will only receive a 10% discount with this coupon code, which you must provide when placing your order and when contacting support.
+
+```bash
+342BZCR2U
+```
 
 ### 🔑 Key Features
 * **Smart Detection:** Automatic fallback for limited hosting vs. full root access
