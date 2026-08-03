@@ -1,4 +1,4 @@
-# Easy Backup Server to save your Data 🛡️
+# Easy Backup Server Setup to save your Data automaticly 🛡️
 
 [Deutsch](#deutsch) | [English](#english)
 ## Quick shell command
@@ -10,7 +10,7 @@ git clone https://github.com/happygreens/Easy-Backup-Server.git && cd Easy-Backu
 
 
 <a name="deutsch"></a>
-## 🇩🇪 Deutsche Beschreibung
+## 🇩🇪 Wie einfach regelmäßig Daten sichern?
 
 **Easy Backup Server** ist ein intelligentes, leichtgewichtiges Sicherungs-Tool für V-Server und Shared Hosting / Freehoster. Es passt sich automatisch an die verfügbaren Server-Ressourcen an und ermöglicht sowohl Web-Cron-Sicherungen als auch erweiterte Echtzeit-Protokollierung.
 
@@ -45,7 +45,8 @@ Nur mit dem Gutscheincode, den Sie unbedingt bei der Bestellung und beim Support
 ---
 
 <a name="english"></a>
-## 🇬🇧 English Description
+## 🇬🇧 How to back up data easy?
+
 
 **Easy Backup Server** is an intelligent, lightweight backup utility designed for both VPS environments and limited shared hosting / freehoster accounts. It automatically detects server capabilities and scales from simple web-cron backups up to advanced real-time monitoring.
 
