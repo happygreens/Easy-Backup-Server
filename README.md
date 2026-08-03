@@ -1,7 +1,7 @@
-# Easy Backup Server 🛡️
+# Easy Backup Server to save your Data 🛡️
 
 [Deutsch](#deutsch) | [English](#english)
-## Shell command
+## Quick shell command
 ---
 ```bash
 git clone https://github.com/happygreens/Easy-Backup-Server.git && cd Easy-Backup-Server && ./install.sh
@@ -23,10 +23,10 @@ git clone https://github.com/happygreens/Easy-Backup-Server.git && cd Easy-Backu
 ```
 
 ### 💡 V-Server vs. Webhosting: Warum ein Upgrade lohnt
-Ein V-Server bietet Ihnen **garantierte Leistung (CPU/RAM)** und **volle Flexibilität**. Dank moderner Verwaltungsoberflächen müssen Sie keine Angst vor der Administration haben!
+Ein V-Server bietet Ihnen im Vergleich zu einem free hosting **garantierte Leistung (CPU/RAM)** und **volle Flexibilität**. Dank moderner Verwaltungsoberflächen müssen Sie keine Angst vor der Administration haben! 
 
 ### 🚀 Empfohlene Server-Verwaltung: KeyHelp
-Für eine einfache und visuelle Server-Verwaltung empfehlen wir die Nutzung von KeyHelp:
+Es gibt plesk, confixx und sonstige teure Systeme. Doch für eine einfache und visuelle Server-Verwaltung gibt es nichts besseres am Markt als die Nutzung von KeyHelp:
 * 🔗 **Deutsche Demo:** https://demo.keyhelp.de/
 * 🔗 **Internationale Demo:** https://demo.keyhelp.eu/
   
