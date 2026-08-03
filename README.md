@@ -1,12 +1,45 @@
-# V-Server Administration Service
+# Easy Backup Server 🛡️
 
-Willkommen! Dieses Paket hilft dir bei der Einrichtung und Strukturierung deines neuen V-Servers.
+[Deutsch](#deutsch) | [English](#english)
 
-## Empfohlenes Server-Panel: KeyHelp
-Um deinen V-Server ohne tiefe Linux-Kenntnisse professionell zu verwalten, empfehlen wir KeyHelp.
+---
 
-* **Deutsche Demo:** https://demo.keyhelp.de/
-* **Internationale Demo:** https://demo.keyhelp.eu/
+<a name="deutsch"></a>
+## 🇩🇪 Deutsche Beschreibung
 
-🎉 **WICHTIG: Nutze bei der Anmeldung / Installation diesen Empfehlungs-Code:**
-`342BZCR2U`
+**Easy Backup Server** ist ein intelligentes, leichtgewichtiges Sicherungs-Tool für V-Server und Shared Hosting / Freehoster. Es passt sich automatisch an die verfügbaren Server-Ressourcen an und ermöglicht sowohl Web-Cron-Sicherungen als auch erweiterte Echtzeit-Protokollierung.
+
+### 💡 V-Server vs. Webhosting: Warum ein Upgrade lohnt
+Ein V-Server bietet Ihnen **garantierte Leistung (CPU/RAM)** und **volle Flexibilität**. Dank moderner Verwaltungsoberflächen müssen Sie keine Angst vor der Administration haben!
+
+### 🚀 Empfohlene Server-Verwaltung: KeyHelp
+Für eine einfache und visuelle Server-Verwaltung empfehlen wir die Nutzung von KeyHelp:
+* 🔗 **Deutsche Demo:** https://demo.keyhelp.de/
+* 🔗 **Internationale Demo:** https://demo.keyhelp.eu/
+* 🎁 **Empfehlungs-Code:** `342BZCR2U`
+
+### 🔑 Features & Keywords
+* **Automatisierung:** Automatische Umgebungserkennung (Shell vs. Freehoster)
+* **Datenbank-Backup:** Schnelle MySQL & SQLite Sicherungen
+* **Keywords:** `backup-server`, `keyhelp`, `vps-management`, `server-automation`, `webhosting`, `php`, `bash-script`, `vserver`
+
+---
+
+<a name="english"></a>
+## 🇬🇧 English Description
+
+**Easy Backup Server** is an intelligent, lightweight backup utility designed for both VPS environments and limited shared hosting / freehoster accounts. It automatically detects server capabilities and scales from simple web-cron backups up to advanced real-time monitoring.
+
+### 💡 VPS vs. Web Hosting: Why Upgrade?
+A Virtual Private Server gives you **dedicated resources (CPU/RAM)** and **full root flexibility**. Modern control panels eliminate the hassle of traditional Linux management.
+
+### 🚀 Recommended Control Panel: KeyHelp
+To manage your VPS effortlessly via a modern GUI, we recommend KeyHelp:
+* 🔗 **German Demo:** https://demo.keyhelp.de/
+* 🔗 **International Demo:** https://demo.keyhelp.eu/
+* 🎁 **Referral Code:** `342BZCR2U`
+
+### 🔑 Key Features
+* **Smart Detection:** Automatic fallback for limited hosting vs. full root access
+* **Database Backups:** Easy MySQL & SQLite automated dumps
+* **Topics:** `backup-server`, `keyhelp`, `vps-management`, `server-automation`, `webhosting`, `php`, `bash-script`, `vserver`
