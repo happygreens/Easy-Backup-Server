@@ -1,15 +1,11 @@
 # Easy Backup Server 🛡️
 
 [Deutsch](#deutsch) | [English](#english)
-
+## Shell command
 ---
-
-
-
-In deinem Editor (aus dem letzten Screenshot) musst du den langen Befehl erst wieder in eine einzige Zeile zusammenfügen (damit er nicht umbricht) und direkt darunter die drei Backticks setzen. 
-
-Schreibe es im Editor exakt so untereinander:
-
+```bash
+git clone https://github.com/happygreens/Easy-Backup-Server.git && cd Easy-Backup-Server && ./install.sh
+```
 
 
 
