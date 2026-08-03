@@ -4,6 +4,15 @@
 
 ---
 
+
+
+In deinem Editor (aus dem letzten Screenshot) musst du den langen Befehl erst wieder in eine einzige Zeile zusammenfügen (damit er nicht umbricht) und direkt darunter die drei Backticks setzen. 
+
+Schreibe es im Editor exakt so untereinander:
+
+
+
+
 <a name="deutsch"></a>
 ## 🇩🇪 Deutsche Beschreibung
 
@@ -11,9 +20,11 @@
 
 ## Installation
 Lassen Sie diesen Befehl von Ihrem Hoster eingeben oder erfragen Sie die SSH-Daten, um ihn selbst in die Shell einzutippen:
-```bash
-git clone [https://github.com/happygreens/Easy-Backup-Server.git](https://github.com/happygreens/Easy-Backup-Server.git) && cd Easy-Backup-Server && ./install.sh
 
+
+```bash
+git clone https://github.com/happygreens/Easy-Backup-Server.git && cd Easy-Backup-Server && ./install.sh
+```
 
 ### 💡 V-Server vs. Webhosting: Warum ein Upgrade lohnt
 Ein V-Server bietet Ihnen **garantierte Leistung (CPU/RAM)** und **volle Flexibilität**. Dank moderner Verwaltungsoberflächen müssen Sie keine Angst vor der Administration haben!
@@ -39,7 +50,8 @@ Für eine einfache und visuelle Server-Verwaltung empfehlen wir die Nutzung von 
 ## Installation
 Have this command executed by your hoster or request your SSH credentials to type it into the shell yourself:
 ```bash
-git clone [https://github.com/happygreens/Easy-Backup-Server.git](https://github.com/happygreens/Easy-Backup-Server.git) && cd Easy-Backup-Server && ./install.sh
+git clone https://github.com/happygreens/Easy-Backup-Server.git && cd Easy-Backup-Server && ./install.sh
+```
 
 ### 💡 VPS vs. Web Hosting: Why Upgrade?
 A Virtual Private Server gives you **dedicated resources (CPU/RAM)** and **full root flexibility**. Modern control panels eliminate the hassle of traditional Linux management.
